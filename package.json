@@ -3,6 +3,7 @@
 	"description": "A super cool project where I learn Express, nodejs, and Heroku deployment!",
 	"keywords": ["freecodecamp", "express", "nodejs", "learning"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.0"
 	},
